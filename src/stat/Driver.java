@@ -31,17 +31,17 @@ public class Driver {
 				String[] p = new String[]{"PS4", "XOne", "WiiU", "3DS", "PC", "PSV"};
 				
 				if(str.contains(p[0]))
-					str += ",0,0,0,0,0,0";
+					str += ",0,0,0,0,0";
 				else if(str.contains(p[1]))
-					str += ",0,0,0,0,1,0";
+					str += ",0,0,0,0,1";
 				else if(str.contains(p[2]))
-					str += ",0,0,0,1,0,0";
+					str += ",0,0,0,1,0";
 				else if(str.contains(p[3]))
-					str += ",0,0,1,0,0,0";
+					str += ",0,0,1,0,0";
 				else if(str.contains(p[4]))
-					str += ",0,1,0,0,0,0";
+					str += ",0,1,0,0,0";
 				else if(str.contains(p[5]))
-					str += ",1,0,0,0,0,0";
+					str += ",1,0,0,0,0";
 				
 				pw.println(str);
 			}
