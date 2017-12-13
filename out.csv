@@ -1950,7 +1950,6 @@ Unreal Tournament III,PS3,2007,Shooter,Midway Games,0.33,0.23,0,0.1,0.67,86,42,7
 The Sims 3,DS,2010,Simulation,Electronic Arts,0.38,0.22,0,0.06,0.67,73,9,6.4,20,E
 Napoleon: Total War,PC,2010,Strategy,Sega,0.02,0.53,0,0.12,0.67,81,56,7.9,517,T
 Fossil Fighters: Champions,DS,2010,Role-Playing,Nintendo,0.31,0,0.34,0.02,0.67,68,8,7.1,11,E
-"The Chronicles of Narnia: The Lion, The Witch and The Wardrobe",GBA,2005,Action,Disney Interactive Studios,0.48,0.18,0,0.01,0.67,66,7,6.8,5,E
 NFL Street,X,2004,Sports,Electronic Arts,0.49,0.15,0,0.02,0.66,81,38,8.8,9,E
 Final Fantasy Crystal Chronicles: Ring of Fates,DS,2007,Role-Playing,Square Enix,0.22,0.01,0.42,0.02,0.66,77,41,7.1,26,E10+
 Blazing Angels: Squadrons of WWII,PS3,2006,Simulation,Ubisoft,0.35,0.22,0,0.1,0.66,67,26,6.9,9,T
@@ -2266,8 +2265,7 @@ NHL Hitz 20-02,PS2,2001,Sports,Midway Games,0.28,0.22,0,0.07,0.56,78,18,7.6,8,E
 Classic NES Series: Dr. Mario,GBA,2004,Puzzle,Nintendo,0.31,0.11,0.13,0.01,0.56,66,10,7.5,6,E
 The Sims: Bustin Out,X,2003,Simulation,Electronic Arts,0.4,0.14,0,0.02,0.56,81,26,8.9,12,T
 NCAA March Madness 07,PS2,2007,Sports,Electronic Arts,0.28,0.22,0,0.07,0.56,63,9,8.6,7,E
-"Warhammer 40,000: Space Marine",X360,2011,Shooter,THQ,0.25,0.26,0,0.06,0.56,76,57,7.8,233,M
-"Monsters, Inc. Scream Team",PS,2001,Platform,Sony Computer Entertainment,0.31,0.21,0,0.04,0.56,65,10,6.9,8,E
+Monsters  Inc. Scream Team,PS,2001,Platform,Sony Computer Entertainment,0.31,0.21,0,0.04,0.56,65,10,6.9,8,E
 Top Spin 3,X360,2008,Action,Take-Two Interactive,0.09,0.4,0,0.07,0.56,78,47,7.6,36,E
 Cabelas Big Game Hunter 2005 Adventures,PS2,2004,Sports,Activision,0.28,0.21,0,0.07,0.56,55,4,8.4,16,T
 LEGO Rock Band,X360,2009,Misc,Warner Bros. Interactive Entertainment,0.4,0.11,0,0.05,0.56,71,50,7.2,31,E10+
@@ -2627,7 +2625,6 @@ Viva Pinata: Trouble in Paradise,X360,2008,Simulation,Microsoft Game Studios,0.1
 NBA Ballers: Phenom,PS2,2006,Sports,Midway Games,0.23,0.18,0,0.06,0.47,69,19,8.5,8,E
 Need for Speed Carbon,X,2006,Racing,Electronic Arts,0.35,0.1,0,0.02,0.47,74,19,7.4,11,E10+
 Shadowrun,X360,2007,Role-Playing,Microsoft Game Studios,0.41,0.02,0,0.04,0.47,66,57,7.5,156,M
-"Warhammer 40,000: Dawn of War II",PC,2009,Strategy,THQ,0,0.45,0,0.02,0.47,85,67,8.1,1505,M
 Emergency Heroes,Wii,2008,Racing,Ubisoft,0.14,0.27,0,0.05,0.47,41,12,4.2,15,E10+
 FlingSmash,Wii,2010,Action,Nintendo,0.37,0.01,0.07,0.02,0.47,48,26,6.8,13,E
 Downhill Domination,PS2,2003,Racing,Codemasters,0.23,0.18,0,0.06,0.47,79,40,8.9,33,T
@@ -2724,7 +2721,6 @@ Mario Golf: Advance Tour,GBA,2004,Sports,Nintendo,0.32,0.12,0,0.01,0.45,84,38,8.
 Celebrity Sports Showdown,Wii,2008,Sports,Electronic Arts,0.18,0.22,0,0.05,0.45,50,12,4.6,18,E
 F.E.A.R. 3,X360,2011,Shooter,Warner Bros. Interactive Entertainment,0.3,0.11,0.01,0.04,0.45,75,71,7,139,M
 Disney Guilty Party,Wii,2010,Misc,Disney Interactive Studios,0.42,0,0,0.03,0.45,78,13,8,4,E
-"Warhammer 40,000: Space Marine",PS3,2011,Shooter,THQ,0.13,0.23,0,0.08,0.45,70,46,7.4,162,M
 Silent Hill: Homecoming,X360,2008,Action,Konami Digital Entertainment,0.25,0.15,0,0.04,0.45,70,54,7,182,M
 Major League Baseball 2K6,PS2,2006,Sports,Spike,0.37,0.01,0,0.06,0.44,70,19,5.2,27,E
 Hometown Story,3DS,2013,Role-Playing,Rising Star Games,0.24,0.12,0.04,0.04,0.44,47,14,6,24,E10+
@@ -2788,7 +2784,6 @@ Need for Speed Underground 2,GBA,2004,Racing,Electronic Arts,0.31,0.12,0,0.01,0.
 Tetris Axis,3DS,2011,Puzzle,Tetris Online,0.2,0.13,0.06,0.03,0.43,74,33,6.8,28,E
 SSX Tricky,X,2001,Sports,Electronic Arts,0.32,0.09,0,0.02,0.43,88,22,8.5,11,E
 Star Wars The Clone Wars: Republic Heroes,PS3,2009,Action,LucasArts,0.19,0.18,0,0.07,0.43,43,22,5.3,16,T
-"The Chronicles of Narnia: The Lion, The Witch and The Wardrobe",PS2,2005,Action,Disney Interactive Studios,0.36,0.01,0,0.06,0.43,68,36,8.4,17,T
 Hyperdimension Neptunia,PS3,2010,Role-Playing,Tecmo Koei,0.22,0.09,0.07,0.04,0.43,45,31,7,148,T
 NCAA Football 2004,X,2003,Sports,Electronic Arts,0.4,0.02,0,0.02,0.43,88,13,8.8,19,E
 Bionicle,PS2,2003,Action,Electronic Arts,0.21,0.17,0,0.06,0.43,51,7,3.6,16,E
@@ -2903,7 +2898,7 @@ Top Spin 4,X360,2011,Sports,Take-Two Interactive,0.15,0.22,0,0.04,0.41,84,54,8.2
 Armored Core 2: Another Age,PS2,2001,Simulation,Metro 3D,0.11,0.08,0.19,0.03,0.41,75,16,8.8,30,T
 Mortal Kombat: Deadly Alliance,GC,2002,Fighting,Midway Games,0.31,0.08,0,0.01,0.41,81,20,8.7,43,M
 NiGHTS: Journey of Dreams,Wii,2007,Platform,Sega,0.32,0.02,0.04,0.03,0.41,69,47,8.5,55,E
-"Ed, Edd n Eddy: The Mis-Edventures",PS2,2005,Platform,Midway Games,0.34,0.01,0,0.06,0.41,50,5,7.6,16,E
+Ed  Edd n Eddy: The Mis-Edventures,PS2,2005,Platform,Midway Games,0.34,0.01,0,0.06,0.41,50,5,7.6,16,E
 Harry Potter and the Deathly Hallows - Part 1,DS,2010,Action,Electronic Arts,0.19,0.18,0,0.04,0.41,56,6,6,4,E10+
 WWE All Stars,PS3,2011,Fighting,THQ,0.16,0.18,0,0.07,0.41,75,51,6.4,37,T
 Resistance: Burning Skies,PSV,2012,Shooter,Sony Computer Entertainment,0.18,0.15,0.02,0.06,0.41,60,63,6.8,245,M
@@ -3077,7 +3072,7 @@ Major League Baseball 2K6,X360,2006,Sports,Spike,0.34,0,0,0.03,0.37,66,22,3.9,37
 Theatrhythm Final Fantasy: Curtain Call,3DS,2014,Misc,Square Enix,0.13,0.08,0.15,0.02,0.37,83,52,8.3,67,T
 NBA 2K7,PS3,2006,Sports,Take-Two Interactive,0.3,0.04,0,0.03,0.37,80,20,7.4,8,E
 Just Dance 4,WiiU,2012,Misc,Ubisoft,0.21,0.14,0,0.03,0.37,66,14,7.8,37,E10+
-"Monsters, Inc. Scream Arena",GC,2002,Platform,THQ,0.29,0.07,0,0.01,0.37,39,7,4.7,14,E
+Monsters  Inc. Scream Arena,GC,2002,Platform,THQ,0.29,0.07,0,0.01,0.37,39,7,4.7,14,E
 Need for Speed: Hot Pursuit,PC,2010,Racing,Electronic Arts,0.12,0.2,0,0.05,0.37,86,14,6.7,559,E10+
 Rampage: Total Destruction,PS2,2006,Action,Midway Games,0.18,0.14,0,0.05,0.37,51,34,7,15,E10+
 Sid Meiers Civilization: Beyond Earth,PC,2014,Strategy,Take-Two Interactive,0.12,0.23,0,0.03,0.37,81,78,5.5,1031,E10+
@@ -3344,7 +3339,7 @@ Harry Potter and the Deathly Hallows - Part 2,PS3,2011,Action,Electronic Arts,0.
 Final Fantasy XI,PS2,2002,Role-Playing,Square Enix,0.08,0.06,0.15,0.02,0.32,85,49,6.9,66,T
 Overlord II,X360,2009,Action,Codemasters,0.15,0.14,0,0.03,0.32,75,60,7.2,46,T
 Dance Dance Revolution Universe,X360,2007,Simulation,Konami Digital Entertainment,0.3,0,0,0.02,0.32,74,26,8.8,5,E10+
-"Warhammer 40,000: Squad Command",PSP,2007,Strategy,THQ,0.11,0.13,0,0.08,0.32,67,25,7.6,26,T
+Warhammer 40 000: Squad Command,PSP,2007,Strategy,THQ,0.11,0.13,0,0.08,0.32,67,25,7.6,26,T
 Tropico 5,PS4,2015,Simulation,Kalypso Media,0.06,0.16,0.06,0.04,0.32,76,17,7.1,111,T
 Darkwatch,PS2,2005,Shooter,Ubisoft,0.16,0.12,0,0.04,0.32,74,37,8.4,42,M
 Beautiful Katamari,X360,2007,Puzzle,Namco Bandai Games,0.14,0.02,0.15,0.02,0.32,73,52,7,40,E
@@ -3383,7 +3378,7 @@ Clive Barkers Jericho,X360,2007,Shooter,Codemasters,0.28,0.01,0,0.02,0.32,63,46,
 LEGO Legends of Chima: Lavals Journey,3DS,2013,Adventure,Warner Bros. Interactive Entertainment,0.19,0.1,0,0.03,0.32,65,5,3.6,7,E10+
 Romance of the Three Kingdoms VII,PS2,2000,Strategy,Tecmo Koei,0.08,0.06,0.16,0.02,0.32,72,10,8.7,11,E
 DJ Hero,PS2,2009,Misc,Activision,0.1,0.02,0,0.2,0.32,87,4,6.4,5,T
-"Monsters, Inc.",PS2,2002,Adventure,Sony Computer Entertainment,0.15,0.12,0,0.04,0.32,52,15,7.2,10,E
+Monsters  Inc.,PS2,2002,Adventure,Sony Computer Entertainment,0.15,0.12,0,0.04,0.32,52,15,7.2,10,E
 Phineas and Ferb: Across the 2nd Dimension,PS3,2011,Action,Disney Interactive Studios,0.15,0.11,0,0.05,0.32,63,13,6.6,9,E10+
 Tekken 6,PSP,2009,Fighting,Namco Bandai Games,0.15,0.03,0.1,0.03,0.32,82,39,8.2,68,T
 Crash of the Titans,X360,2007,Action,Vivendi Games,0.27,0.02,0,0.02,0.32,65,25,6.3,39,E10+
@@ -3549,7 +3544,7 @@ The BIGS 2,Wii,2009,Sports,Take-Two Interactive,0.26,0.01,0,0.02,0.29,68,5,8.5,6
 Turning Point: Fall of Liberty,X360,2008,Shooter,Codemasters,0.23,0.04,0,0.02,0.29,43,44,6.8,87,T
 Shrek Super Party,PS2,2002,Misc,TDK Mediactive,0.14,0.11,0,0.04,0.29,30,4,5.1,17,E
 MLB Power Pros,Wii,2007,Sports,Konami Digital Entertainment,0.23,0,0.04,0.02,0.29,83,12,8.4,45,E
-"Sakura Wars: So Long, My Love",PS2,2005,Role-Playing,Sega,0.07,0.05,0.15,0.02,0.29,81,15,7.3,26,T
+Sakura Wars: So Long  My Love,PS2,2005,Role-Playing,Sega,0.07,0.05,0.15,0.02,0.29,81,15,7.3,26,T
 Dynasty Tactics,PS2,2002,Strategy,Tecmo Koei,0.06,0.05,0.16,0.02,0.29,79,14,8.1,31,T
 Angry Birds Star Wars,PS3,2013,Strategy,Activision,0.1,0.14,0,0.05,0.29,49,6,3.6,23,E
 Metal Gear Solid V: Ground Zeroes,XOne,2014,Action,Konami Digital Entertainment,0.15,0.11,0,0.02,0.29,76,13,5.4,349,M
@@ -3847,7 +3842,7 @@ Dynasty Warriors 6,PS2,2008,Action,Tecmo Koei,0.12,0.09,0,0.03,0.25,43,7,5.5,15,
 Americas Army: Rise of a Soldier,X,2005,Shooter,Ubisoft,0.19,0.05,0,0.01,0.25,70,19,7.4,21,T
 Grandia,PS,1999,Role-Playing,Ubisoft,0.14,0.09,0,0.02,0.25,89,14,6.6,77,E
 Pirates of the Caribbean: The Legend of Jack Sparrow,PS2,2006,Adventure,Ubisoft,0.12,0.09,0,0.03,0.25,51,32,7.5,13,T
-"Ed, Edd n Eddy: The Mis-Edventures",GC,2005,Platform,Midway Games,0.19,0.05,0,0.01,0.25,55,4,7.9,10,E
+Ed  Edd n Eddy: The Mis-Edventures,GC,2005,Platform,Midway Games,0.19,0.05,0,0.01,0.25,55,4,7.9,10,E
 Armored Core 4,X360,2007,Simulation,505 Games,0.19,0.01,0.03,0.02,0.25,65,31,7.2,31,T
 Total War: Attila,PC,2015,Strategy,Sega,0.09,0.13,0,0.02,0.25,80,66,7.3,525,T
 Disgaea 2: Dark Hero Days,PSP,2009,Role-Playing,Nippon Ichi Software,0.1,0.01,0.12,0.02,0.25,83,33,7.1,47,T
@@ -4228,7 +4223,7 @@ EVE Online,PC,2003,Role-Playing,CCP,0,0.19,0,0.01,0.2,69,22,7.4,282,T
 Phantasy Star Online,DC,2000,Role-Playing,Sega,0,0,0.2,0,0.2,89,21,9.1,33,T
 Crazy Taxi 3: High Roller,X,2002,Racing,Sega,0.14,0.04,0.02,0.01,0.2,69,33,8.5,13,T
 Midnight Club 3: DUB Edition Remix,X,2006,Racing,Take-Two Interactive,0.15,0.04,0,0.01,0.2,87,16,5.3,18,E10+
-"Warhammer 40,000: Space Marine",PC,2011,Shooter,THQ,0.09,0.09,0,0.03,0.2,74,34,7.4,598,M
+Warhammer 40 000: Space Marine,PC,2011,Shooter,THQ,0.09,0.09,0,0.03,0.2,74,34,7.4,598,M
 Dungeon Hunter Alliance,PSV,2012,Action,Ubisoft,0.08,0.09,0,0.03,0.2,49,34,6.4,61,T
 Thrillville,PSP,2006,Strategy,Atari,0.18,0,0,0.02,0.2,72,13,2.8,39,E10+
 The King of Fighters Collection: The Orochi Saga,PS2,2006,Fighting,Ignition Entertainment,0.1,0.08,0,0.03,0.2,67,14,8.5,4,T
@@ -4265,7 +4260,7 @@ Infinite Space,DS,2009,Role-Playing,Sega,0.06,0.05,0.07,0.01,0.2,75,46,9,61,T
 Monster Jam,X360,2007,Racing,Activision,0.18,0,0,0.02,0.2,43,9,6.4,5,E
 UFC Personal Trainer: The Ultimate Fitness System,PS3,2011,Sports,THQ,0.09,0.08,0,0.03,0.2,65,8,2.4,5,E
 Two Worlds II,PC,2011,Role-Playing,SouthPeak Games,0.09,0.09,0,0.02,0.2,76,31,6.5,316,M
-"The Chronicles of Narnia: The Lion, The Witch and The Wardrobe",X,2005,Action,Disney Interactive Studios,0.15,0.04,0,0.01,0.2,72,31,6,6,T
+The Chronicles of Narnia: The Lion  The Witch and The Wardrobe,X,2005,Action,Disney Interactive Studios,0.15,0.04,0,0.01,0.2,72,31,6,6,T
 NBA 07,PSP,2006,Sports,Sony Computer Entertainment,0.18,0,0,0.02,0.2,68,24,7,5,E
 Tekken 3D: Prime Edition,3DS,2012,Fighting,Nintendo,0.06,0.07,0.05,0.01,0.2,64,42,5.9,39,T
 IHRA Drag Racing 2004,X,2003,Racing,Bethesda Softworks,0.15,0.04,0,0.01,0.2,40,5,7.4,7,E
@@ -4473,7 +4468,7 @@ WWE All Stars,PSP,2011,Fighting,THQ,0.12,0.04,0,0.03,0.18,70,4,6.6,5,T
 Bad Boys: Miami Takedown,X,2004,Shooter,Empire Interactive,0.14,0.04,0,0.01,0.18,35,20,5.9,9,M
 Mega Man X: Command Mission,PS2,2004,Role-Playing,Capcom,0.09,0.07,0,0.02,0.18,69,27,7.1,18,E
 Tokyo Xtreme Racer DRIFT,PS2,2003,Racing,Genki,0.09,0.07,0,0.02,0.18,59,13,8.6,15,E
-"The Chronicles of Narnia: The Lion, The Witch and The Wardrobe",DS,2005,Action,Disney Interactive Studios,0.15,0.01,0,0.01,0.18,65,20,7.5,4,E10+
+The Chronicles of Narnia: The Lion  The Witch and The Wardrobe,DS,2005,Action,Disney Interactive Studios,0.15,0.01,0,0.01,0.18,65,20,7.5,4,E10+
 GRID Autosport,PS3,2014,Racing,Codemasters,0.05,0.09,0.01,0.03,0.18,75,35,6.8,62,E
 Cabelas Big Game Hunter 2005 Adventures,X,2004,Sports,Activision,0.13,0.04,0,0.01,0.18,65,5,8.3,6,T
 Half-Minute Hero,PSP,2009,Role-Playing,Rising Star Games,0.08,0.01,0.07,0.01,0.18,84,41,7.8,38,E10+
@@ -4739,7 +4734,7 @@ Sherlock Holmes vs. Jack the Ripper,X360,2009,Adventure,Focus Home Interactive,0
 Fist of the North Star: Kens Rage,X360,2010,Action,Ubisoft Annecy,0.07,0.02,0.06,0.01,0.16,59,38,7.3,23,M
 Chaotic: Shadow Warriors,X360,2009,Action,Activision,0.14,0,0,0.01,0.16,60,4,5,4,E10+
 Driven,PS2,2001,Racing,BAM! Entertainment,0.08,0.06,0,0.02,0.15,38,10,3.4,5,T
-"Warhammer 40,000: Fire Warrior",PS2,2003,Shooter,THQ,0.08,0.06,0,0.02,0.15,64,23,8.3,63,M
+Warhammer 40 000: Fire Warrior,PS2,2003,Shooter,THQ,0.08,0.06,0,0.02,0.15,64,23,8.3,63,M
 All-Pro Football 2K8,PS3,2007,Sports,Take-Two Interactive,0.14,0,0,0.01,0.15,73,23,7.3,21,E10+
 Lufia: Curse of the Sinistrals,DS,2010,Role-Playing,Square Enix,0.11,0,0.03,0.01,0.15,80,8,8,13,E10+
 Mugen Souls,PS3,2012,Role-Playing,Nippon Ichi Software,0.04,0.02,0.08,0.01,0.15,55,24,7.3,35,T
@@ -5070,7 +5065,7 @@ NightCaster,X,2002,Action,Microsoft Game Studios,0.1,0.03,0,0,0.13,61,27,5.7,7,T
 FIFA World Cup Germany 2006,GC,2006,Sports,Electronic Arts,0.1,0.03,0,0,0.13,76,17,6.2,5,E
 Hitman 2: Silent Assassin,GC,2003,Action,Eidos Interactive,0.1,0.03,0,0,0.13,83,17,5.5,8,M
 Ape Escape 3,PS2,2005,Platform,Sony Computer Entertainment,0.06,0.05,0,0.02,0.13,77,51,8.5,22,E10+
-"Crouching Tiger, Hidden Dragon",PS2,2003,Action,Ubisoft,0.06,0.05,0,0.02,0.13,48,26,3.7,6,T
+Crouching Tiger  Hidden Dragon,PS2,2003,Action,Ubisoft,0.06,0.05,0,0.02,0.13,48,26,3.7,6,T
 Iridion II,GBA,2003,Shooter,Vivendi Games,0.09,0.03,0,0,0.13,78,13,8.3,4,E
 Whiplash,PS2,2003,Racing,Eidos Interactive,0.06,0.05,0,0.02,0.13,66,32,8.7,15,T
 Watch Dogs,WiiU,2014,Action,Ubisoft,0.07,0.05,0,0.01,0.13,62,15,6.4,164,M
@@ -5414,7 +5409,7 @@ Trauma Center: Under the Knife 2,DS,2008,Simulation,Atlus,0.1,0,0,0.01,0.11,79,2
 SimCity 2000,GBA,2003,Simulation,Zoo Digital Publishing,0.08,0.03,0,0,0.11,62,9,7.8,11,E
 Rocky Balboa,PSP,2007,Sports,Ubisoft,0.01,0.09,0,0.01,0.1,58,17,6.6,11,T
 X-Men: The Official Game,DS,2006,Action,Activision,0.1,0,0,0.01,0.1,50,17,7.8,6,E10+
-"Sakura Wars: So Long, My Love",Wii,2010,Role-Playing,Ackkstudios,0.05,0.04,0,0.01,0.1,75,30,7.3,31,T
+Sakura Wars: So Long  My Love,Wii,2010,Role-Playing,Ackkstudios,0.05,0.04,0,0.01,0.1,75,30,7.3,31,T
 Pro Evolution Soccer 2014,PC,2013,Action,Konami Digital Entertainment,0,0.1,0,0.01,0.1,74,9,4.4,241,E
 Gravity Games Bike: Street Vert Dirt,PS2,2002,Sports,Midway Games,0.05,0.04,0,0.01,0.1,24,12,4.1,27,T
 Top Spin,PS2,2005,Sports,Take-Two Interactive,0.05,0.04,0,0.01,0.1,67,28,7.8,12,E
@@ -5547,7 +5542,6 @@ Castlevania Double Pack,GBA,2006,Platform,Konami Digital Entertainment,0.07,0.03
 Steel Battalion,X,2002,Simulation,Microsoft Game Studios,0.05,0.02,0.02,0,0.1,83,20,8.5,20,T
 Cartoon Network: Punch Time Explosion,3DS,2011,Fighting,Deep Silver,0.07,0.02,0,0.01,0.1,58,16,5.7,29,E10+
 Power Stone Collection,PSP,2006,Action,Capcom,0.08,0,0,0.01,0.1,74,34,6.8,6,T
-"Blast Works: Build, Trade, Destroy",Wii,2008,Shooter,Eidos Interactive,0.09,0,0,0.01,0.1,78,30,7.7,17,E
 SNK vs. Capcom Card Fighters DS,DS,2006,Strategy,Ignition Entertainment,0.09,0,0,0.01,0.1,48,19,5.3,7,T
 Darkest of Days,X360,2009,Shooter,Phantom EFX,0.09,0,0,0.01,0.1,44,25,4.8,76,M
 Minority Report: Everybody Runs,X,2002,Action,Activision,0.07,0.02,0,0,0.1,54,18,5,4,T
@@ -5803,7 +5797,6 @@ Line Rider 2: Unbound,DS,2008,Puzzle,Deep Silver,0.07,0,0,0.01,0.08,59,23,5.6,5,
 Harry Potter and the Sorcerers Stone,GC,2003,Action,Electronic Arts,0.06,0.02,0,0,0.08,62,11,8.3,6,E
 High Heat Major League Baseball 2004,X,2003,Sports,3DO,0.06,0.02,0,0,0.08,83,14,8.4,8,E
 TimeSplitters: Future Perfect,GC,2005,Shooter,Electronic Arts,0.06,0.02,0,0,0.08,82,32,9.1,41,M
-"Warhammer 40,000: Dawn of War II - Retribution",PC,2011,Strategy,THQ,0,0.06,0,0.02,0.08,80,52,7.8,237,M
 Hearts of Iron IV,PC,2016,Strategy,Paradox Interactive,0,0.08,0,0,0.08,83,36,6.9,311,
 Incredible Crisis,PS,1999,Action,Titus,0.04,0.03,0,0.01,0.08,80,11,7.5,11,T
 The King of Fighters EX2: Howling Blood,GBA,2002,Fighting,Marvelous Interactive,0.06,0.02,0,0,0.08,80,10,9.1,10,T
@@ -6037,7 +6030,6 @@ WipEout HD Fury,PS3,2009,Racing,Sony Computer Entertainment,0,0.05,0,0.01,0.07,8
 Natural Doctrine,PSV,2014,Role-Playing,Nippon Ichi Software,0.02,0.01,0.03,0.01,0.07,60,7,7.5,29,M
 Samurai Warriors Chronicles 3,PSV,2014,Action,Tecmo Koei,0,0,0.07,0,0.07,70,9,7.9,14,T
 Fallout: Brotherhood of Steel,PS2,2004,Role-Playing,Avalon Interactive,0.03,0.03,0,0.01,0.07,64,31,4.1,51,M
-"Flower, Sun, and Rain",DS,2008,Adventure,Rising Star Games,0.06,0,0,0,0.07,54,37,7.1,15,T
 Gunstar Super Heroes,GBA,2005,Shooter,Sega,0.05,0.02,0,0,0.07,83,31,8.5,13,E10+
 Cities XL 2012,PC,2011,Strategy,Focus Home Interactive,0.01,0.05,0,0.01,0.07,61,18,5.6,96,E
 Worms Forts: Under Siege,X,2004,Strategy,Sega,0.05,0.01,0,0,0.07,67,15,8,6,T
@@ -6081,7 +6073,6 @@ Legend of the Dragon,Wii,2007,Fighting,Game Factory,0.06,0,0,0,0.06,37,14,4.8,5,
 Cel Damage,GC,2002,Racing,Electronic Arts,0.05,0.01,0,0,0.06,67,12,7.1,12,T
 Arc the Lad: End of Darkness,PS2,2004,Role-Playing,Sony Computer Entertainment,0.03,0.02,0,0.01,0.06,59,24,4.2,10,T
 Tom Clancys Splinter Cell: Pandora Tomorrow,GBA,2004,Action,Ubisoft,0.05,0.02,0,0,0.06,68,19,6.2,6,T
-"Warhammer 40,000: Squad Command",DS,2007,Strategy,THQ,0.05,0.01,0,0.01,0.06,57,21,7.9,16,T
 Tokobot,PSP,2005,Platform,Take-Two Interactive,0.06,0,0,0,0.06,72,30,7.3,8,E
 Land of the Dead: Road to Fiddlers Green,X,2005,Shooter,Groove Games,0.05,0.01,0,0,0.06,32,9,5.8,10,M
 NHL 2K9,Wii,2008,Sports,Take-Two Interactive,0.06,0,0,0,0.06,65,11,5.4,19,E10+
@@ -6220,7 +6211,6 @@ Gladiator: Sword of Vengeance,X,2003,Action,Acclaim Entertainment,0.04,0.01,0,0,
 Enemy Front,PS3,2014,Shooter,City Interactive,0.01,0.04,0,0.01,0.05,43,12,6,75,M
 Bombastic,PS2,2002,Puzzle,Capcom,0.03,0.02,0,0.01,0.05,72,24,7.2,6,E
 Coraline,Wii,2009,Action,D3Publisher,0.05,0,0,0,0.05,42,7,5.5,8,E10+
-Wing Commander: Prophecy,GBA,2003,Simulation,"Destination Software, Inc",0.04,0.01,0,0,0.05,70,8,8.3,7,T
 Marc Eckos Getting Up: Contents Under Pressure,PS2,2006,Action,Atari,0.03,0.02,0,0.01,0.05,69,39,7.2,31,M
 Sega Soccer Slam,X,2002,Sports,Sega,0.04,0.01,0,0,0.05,80,15,8.5,10,E
 Captain America: Super Soldier,Wii,2011,Action,Sega,0.05,0,0,0,0.05,57,16,6,6,T
@@ -6317,7 +6307,6 @@ Stunt GP,PS2,2001,Racing,Titus,0.02,0.02,0,0.01,0.05,49,8,8.1,9,E
 Singularity,PC,2010,Shooter,Mastertronic,0,0.04,0,0.01,0.05,76,36,7.8,327,M
 Ms Saga: A New Dawn,PS2,2005,Role-Playing,Namco Bandai Games,0.02,0.02,0,0.01,0.05,65,27,8.6,15,E10+
 GrimGrimoire,PS2,2007,Strategy,Tecmo Koei,0.01,0.01,0.03,0,0.05,79,39,7.9,17,E10+
-"Warhammer 40,000: Dawn of War",PC,2004,Strategy,THQ,0.01,0.03,0,0.01,0.05,86,51,8.8,300,M
 Freelancer,PC,2003,Simulation,Microsoft Game Studios,0.02,0.02,0,0.01,0.05,85,39,9,186,T
 Deadliest Catch: Alaskan Storm,X360,2008,Sports,Navarre Corp,0.04,0,0,0,0.05,56,14,5.9,15,T
 Crime Life: Gang Wars,X,2005,Action,Konami Digital Entertainment,0.04,0.01,0,0,0.05,30,19,3.4,9,M
@@ -6710,7 +6699,6 @@ Buffy the Vampire Slayer: Chaos Bleeds,GC,2003,Action,Vivendi Games,0.02,0.01,0,
 Max Payne 2: The Fall of Max Payne,PC,2003,Shooter,Take-Two Interactive,0,0.02,0,0,0.03,86,46,9,808,M
 Jet Grind Radio,GBA,2003,Action,Sega,0.02,0.01,0,0,0.03,74,22,9.3,6,E
 Magicka,PC,2011,Role-Playing,Paradox Interactive,0,0.02,0,0.01,0.03,74,44,7.6,605,T
-Baldurs Gate: Dark Alliance,GBA,2004,Role-Playing,"Destination Software, Inc",0.02,0.01,0,0,0.03,76,17,6.5,11,T
 NHL 07,X,2006,Sports,Electronic Arts,0.02,0.01,0,0,0.03,75,14,7.7,6,E10+
 Guild Wars: Nightfall,PC,2006,Role-Playing,NCSoft,0,0.02,0,0,0.03,84,30,8.7,104,T
 The Peanuts Movie: Snoopys Grand Adventure,PS4,2015,Action,Activision,0,0.02,0,0,0.03,59,4,6.6,19,E
@@ -6753,7 +6741,6 @@ NBA 2K17,PC,2016,Sports,Take-Two Interactive,0,0.02,0,0,0.02,90,6,6.3,56,E
 NBA Starting Five,X,2002,Sports,Konami Digital Entertainment,0.02,0.01,0,0,0.02,48,4,5.5,4,E
 Spy Hunter: Nowhere To Run,PS2,2006,Racing,Midway Games,0.01,0.01,0,0,0.02,51,21,6,6,T
 Elven Legacy,PC,2009,Strategy,Paradox Interactive,0.02,0,0,0,0.02,71,27,7.1,38,T
-"Ed, Edd n Eddy: The Mis-Edventures",X,2005,Platform,Midway Games,0.02,0.01,0,0,0.02,56,6,7.7,6,E
 Neverwinter Nights 2,PC,2006,Role-Playing,Atari,0,0.02,0,0,0.02,82,46,6.5,569,T
 IL-2 Sturmovik: Forgotten Battles,PC,2003,Simulation,Ubisoft,0,0.02,0,0,0.02,86,12,8.6,39,T
 Jurassic Park: Operation Genesis,PC,2003,Simulation,Vivendi Games,0,0.02,0,0,0.02,72,15,8.7,55,T
@@ -7049,7 +7036,6 @@ Pro Evolution Soccer 2010,PC,2009,Sports,Konami Digital Entertainment,0,0.01,0,0
 Clive Barkers Jericho,PC,2007,Shooter,Codemasters,0,0.01,0,0,0.01,63,25,7.5,220,M
 Madagascar: Escape 2 Africa,PC,2008,Action,Activision,0.01,0,0,0,0.01,58,6,8,4,E10+
 Sega Rally Revo,PC,2007,Racing,Sega,0,0.01,0,0,0.01,74,9,7.6,18,E
-Wade Hixtons Counter Punch,GBA,2004,Sports,"Destination Software, Inc",0.01,0,0,0,0.01,78,13,9.5,4,T
 Kings Bounty: Armored Princess,PC,2009,Role-Playing,1C Company,0,0.01,0,0,0.01,82,25,8.6,159,T
 Egg Mania: Eggstreme Madness,GC,2002,Puzzle,Kemco,0.01,0,0,0,0.01,64,7,8,4,E
 The Eye of Judgment: Legends,PSP,2010,Strategy,Sony Computer Entertainment,0,0,0.01,0,0.01,69,17,7.9,16,E10+
