@@ -11,13 +11,20 @@ public class Driver {
 	public static void main(String[] args) {
 		try {
 			Scanner sc = new Scanner(new File("out.csv"));
-			PrintWriter pw = new PrintWriter("year2010.csv");
+			PrintWriter pw = new PrintWriter("top2016.csv");
 			
 //			ArrayList<String> data = new ArrayList<>();
+			pw.println(sc.nextLine());
 			while(sc.hasNextLine()){
 				String str = sc.nextLine();
-				if(str.contains(",2010,")){
-					pw.println(str);
+				if(str.contains(",2016,")){
+					if(str.contains("Square Enix") || 
+							str.contains("Nintendo") ||
+							str.contains("Sony Computer Entertainment") ||
+							str.contains("Capcom") ||
+							str.contains("Electronic Arts")){
+						pw.println(str);
+					}
 				}
 			}
 			
